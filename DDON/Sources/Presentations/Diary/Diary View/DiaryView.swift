@@ -1,0 +1,16 @@
+//
+//  DiaryView.swift
+//  DDON
+//
+//  Created by Pil_Gaaang on 11/20/24.
+//
+
+import SwiftUI
+
+struct DiaryView: View {
+    var body: some View {
+        NavigationView {
+            Text("Diary Screen")
+        }
+    }
+}
